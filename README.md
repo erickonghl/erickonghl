@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erickonghl
+- 👋 Hi, I’m @eleph4nt
 - 👀 I’m interested in Machine Learning for stock selection
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on stock selection
